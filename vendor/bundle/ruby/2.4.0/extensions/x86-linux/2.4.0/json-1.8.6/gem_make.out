@@ -1,0 +1,13 @@
+current directory: /home/kuba/dev/student_forum/vendor/bundle/ruby/2.4.0/gems/json-1.8.6/ext/json
+/home/kuba/.rvm/rubies/ruby-2.4.1/bin/ruby -r ./siteconf20171024-13390-j91ui2.rb extconf.rb
+creating Makefile
+
+current directory: /home/kuba/dev/student_forum/vendor/bundle/ruby/2.4.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" clean
+
+current directory: /home/kuba/dev/student_forum/vendor/bundle/ruby/2.4.0/gems/json-1.8.6/ext/json
+make "DESTDIR="
+make: Nie ma nic do zrobienia w 'all'.
+
+current directory: /home/kuba/dev/student_forum/vendor/bundle/ruby/2.4.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" install
